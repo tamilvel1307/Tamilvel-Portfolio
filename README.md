@@ -1,4 +1,4 @@
-# Portfolio Website of Sankar R
+# Portfolio Website of Tamilvel C
 
 Welcome to my portfolio repository! 🌟  
 
